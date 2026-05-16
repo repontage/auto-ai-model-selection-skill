@@ -1,0 +1,34 @@
+{
+  "name": "auto-ai-model-selection-skill",
+  "version": "1.0.0",
+  "description": "Automatically select and switch AI models based on task complexity and performance requirements",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "model-router": "./cli.js"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "ai",
+    "model-router",
+    "agent",
+    "dynamic-model-selection",
+    "multi-model",
+    "openai",
+    "anthropic",
+    "groq",
+    "ollama",
+    "openrouter"
+  ],
+  "author": "repontage <repontage@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/repontage/auto-ai-model-selection-skill.git"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
