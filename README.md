@@ -197,4 +197,4 @@ node test.js
 
 ## License
 
-MIT — [LICENSE](LICENSE)
+Apache 2.0 — [LICENSE](LICENSE)

@@ -23,7 +23,7 @@
     "openrouter"
   ],
   "author": "repontage <repontage@gmail.com>",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/repontage/auto-ai-model-selection-skill.git"
